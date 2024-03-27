@@ -135,6 +135,3 @@ class _CreditCardScreenState extends State<CreditCardScreen> {
       );
   }
 }
-
-class ElelvatedButton {
-}
